@@ -4,7 +4,7 @@
 
 Description-
 
-Simple Weather App, designed to provide weather information for any city. Seamlessly search for the city and access comprehensive weather reports.
+A simple Weather App, designed to provide weather information for any city. Seamlessly search for the city and access comprehensive weather reports.
 
 Key Features:
 City Search:Easily enter the name of the city you want to check the weather for.
